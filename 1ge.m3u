@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://live.fanmingming.com/tv/八大戏剧.png" group-title="",八大戏剧
+#EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://live.fanmingming.com/tv/八大戏剧.png" group-title="八大",八大戏剧
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1 tvg-id="八大第1台" tvg-name="八大第1台" tvg-logo="https://live.fanmingming.com/tv/八大第1台.png" group-title="八大",八大第1台
+http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1 tvg-id="八大第综合" tvg-name="八大第综合" tvg-logo="https://live.fanmingming.com/tv/八大第综合.png" group-title="八大",八大第综合
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
